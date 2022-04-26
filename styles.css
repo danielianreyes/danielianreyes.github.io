@@ -1,0 +1,46 @@
+body {
+    background-color: #484848;
+}
+
+h1,h2,h3 {
+    color:antiquewhite;
+    text-align: center;
+}
+
+h3 {
+    text-decoration:underline
+}
+
+.center {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
+#imageself {
+    display: block;
+    margin: auto;
+    max-width:25%;
+    height: auto;
+}
+
+p {
+    color:aliceblue;
+}
+
+div {
+    padding-top: 5%
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly
+}
+
+a:link {
+    color:aqua;
+}
+a:visited {
+    color:aqua
+}
